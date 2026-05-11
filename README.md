@@ -24,5 +24,5 @@ Developed as part of a Master Thesis at **HafenCity Universität, Hamburg** titl
 
 ## Repository Versions
 
-*   **`main` branch**: (Current) Contains the updated scripts with descriptive comments and organized file naming.
-*   **`thesis-submission` branch**: A static snapshot of the original scripts in their exact state at the time of the official Master's thesis submission.
+*   **`main` branch**: Contains the updated scripts with comments and organized file naming.
+*   **`thesis-submission` branch**: A static snapshot of the original scripts in their exact state at the time of the Master's thesis submission.
